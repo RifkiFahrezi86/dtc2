@@ -1,0 +1,12 @@
+{
+  "title": "Playzone — Serunya tebak-tebakan",
+  "language": "id",
+  "description": "Game tebak kata, emoji, angka, dan bendera yang seru. Asah otak, buka petunjuk, dan kumpulkan poin. Gratis tanpa download.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
